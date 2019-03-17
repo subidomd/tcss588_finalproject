@@ -1,4 +1,6 @@
 # TCSS 588 Final Project
+### Tott Subido
+### March 20, 2019
 In this project is my code for the TCSS 588 Final Project. I worked on parsing the original data, as well as to work over the parsed data and make classifications using k-Nearest Neighbor, Ridge Regression, Elastic Net, and Naive Bayes.
 
 ## Running the data parser
